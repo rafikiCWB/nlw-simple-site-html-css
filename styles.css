@@ -116,8 +116,6 @@ header div {
     animation: fromTop 1s;
 }
 
-/*Animação*/
-
 header div {
     animation: fromTop .7s .2s backwards;
 }
